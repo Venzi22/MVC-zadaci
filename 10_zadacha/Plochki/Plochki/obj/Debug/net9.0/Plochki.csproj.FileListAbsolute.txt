@@ -1,0 +1,14 @@
+C:\Users\GamingPC\Desktop\Homework\10_zadacha\Plochki\Plochki\bin\Debug\net9.0\Plochki.exe
+C:\Users\GamingPC\Desktop\Homework\10_zadacha\Plochki\Plochki\bin\Debug\net9.0\Plochki.deps.json
+C:\Users\GamingPC\Desktop\Homework\10_zadacha\Plochki\Plochki\bin\Debug\net9.0\Plochki.runtimeconfig.json
+C:\Users\GamingPC\Desktop\Homework\10_zadacha\Plochki\Plochki\bin\Debug\net9.0\Plochki.dll
+C:\Users\GamingPC\Desktop\Homework\10_zadacha\Plochki\Plochki\bin\Debug\net9.0\Plochki.pdb
+C:\Users\GamingPC\Desktop\Homework\10_zadacha\Plochki\Plochki\obj\Debug\net9.0\Plochki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamingPC\Desktop\Homework\10_zadacha\Plochki\Plochki\obj\Debug\net9.0\Plochki.AssemblyInfoInputs.cache
+C:\Users\GamingPC\Desktop\Homework\10_zadacha\Plochki\Plochki\obj\Debug\net9.0\Plochki.AssemblyInfo.cs
+C:\Users\GamingPC\Desktop\Homework\10_zadacha\Plochki\Plochki\obj\Debug\net9.0\Plochki.csproj.CoreCompileInputs.cache
+C:\Users\GamingPC\Desktop\Homework\10_zadacha\Plochki\Plochki\obj\Debug\net9.0\Plochki.dll
+C:\Users\GamingPC\Desktop\Homework\10_zadacha\Plochki\Plochki\obj\Debug\net9.0\refint\Plochki.dll
+C:\Users\GamingPC\Desktop\Homework\10_zadacha\Plochki\Plochki\obj\Debug\net9.0\Plochki.pdb
+C:\Users\GamingPC\Desktop\Homework\10_zadacha\Plochki\Plochki\obj\Debug\net9.0\Plochki.genruntimeconfig.cache
+C:\Users\GamingPC\Desktop\Homework\10_zadacha\Plochki\Plochki\obj\Debug\net9.0\ref\Plochki.dll
