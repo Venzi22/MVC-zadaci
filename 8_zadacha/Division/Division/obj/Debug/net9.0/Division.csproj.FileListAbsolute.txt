@@ -1,0 +1,14 @@
+C:\Users\GamingPC\Desktop\Homework\8_zadacha\Division\Division\bin\Debug\net9.0\Division.exe
+C:\Users\GamingPC\Desktop\Homework\8_zadacha\Division\Division\bin\Debug\net9.0\Division.deps.json
+C:\Users\GamingPC\Desktop\Homework\8_zadacha\Division\Division\bin\Debug\net9.0\Division.runtimeconfig.json
+C:\Users\GamingPC\Desktop\Homework\8_zadacha\Division\Division\bin\Debug\net9.0\Division.dll
+C:\Users\GamingPC\Desktop\Homework\8_zadacha\Division\Division\bin\Debug\net9.0\Division.pdb
+C:\Users\GamingPC\Desktop\Homework\8_zadacha\Division\Division\obj\Debug\net9.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamingPC\Desktop\Homework\8_zadacha\Division\Division\obj\Debug\net9.0\Division.AssemblyInfoInputs.cache
+C:\Users\GamingPC\Desktop\Homework\8_zadacha\Division\Division\obj\Debug\net9.0\Division.AssemblyInfo.cs
+C:\Users\GamingPC\Desktop\Homework\8_zadacha\Division\Division\obj\Debug\net9.0\Division.csproj.CoreCompileInputs.cache
+C:\Users\GamingPC\Desktop\Homework\8_zadacha\Division\Division\obj\Debug\net9.0\Division.dll
+C:\Users\GamingPC\Desktop\Homework\8_zadacha\Division\Division\obj\Debug\net9.0\refint\Division.dll
+C:\Users\GamingPC\Desktop\Homework\8_zadacha\Division\Division\obj\Debug\net9.0\Division.pdb
+C:\Users\GamingPC\Desktop\Homework\8_zadacha\Division\Division\obj\Debug\net9.0\Division.genruntimeconfig.cache
+C:\Users\GamingPC\Desktop\Homework\8_zadacha\Division\Division\obj\Debug\net9.0\ref\Division.dll
