@@ -1,0 +1,14 @@
+C:\Users\GamingPC\Desktop\Homework\9_zadacha\MagicNumbers\MagicNumbers\bin\Debug\net9.0\MagicNumbers.exe
+C:\Users\GamingPC\Desktop\Homework\9_zadacha\MagicNumbers\MagicNumbers\bin\Debug\net9.0\MagicNumbers.deps.json
+C:\Users\GamingPC\Desktop\Homework\9_zadacha\MagicNumbers\MagicNumbers\bin\Debug\net9.0\MagicNumbers.runtimeconfig.json
+C:\Users\GamingPC\Desktop\Homework\9_zadacha\MagicNumbers\MagicNumbers\bin\Debug\net9.0\MagicNumbers.dll
+C:\Users\GamingPC\Desktop\Homework\9_zadacha\MagicNumbers\MagicNumbers\bin\Debug\net9.0\MagicNumbers.pdb
+C:\Users\GamingPC\Desktop\Homework\9_zadacha\MagicNumbers\MagicNumbers\obj\Debug\net9.0\MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamingPC\Desktop\Homework\9_zadacha\MagicNumbers\MagicNumbers\obj\Debug\net9.0\MagicNumbers.AssemblyInfoInputs.cache
+C:\Users\GamingPC\Desktop\Homework\9_zadacha\MagicNumbers\MagicNumbers\obj\Debug\net9.0\MagicNumbers.AssemblyInfo.cs
+C:\Users\GamingPC\Desktop\Homework\9_zadacha\MagicNumbers\MagicNumbers\obj\Debug\net9.0\MagicNumbers.csproj.CoreCompileInputs.cache
+C:\Users\GamingPC\Desktop\Homework\9_zadacha\MagicNumbers\MagicNumbers\obj\Debug\net9.0\MagicNumbers.dll
+C:\Users\GamingPC\Desktop\Homework\9_zadacha\MagicNumbers\MagicNumbers\obj\Debug\net9.0\refint\MagicNumbers.dll
+C:\Users\GamingPC\Desktop\Homework\9_zadacha\MagicNumbers\MagicNumbers\obj\Debug\net9.0\MagicNumbers.pdb
+C:\Users\GamingPC\Desktop\Homework\9_zadacha\MagicNumbers\MagicNumbers\obj\Debug\net9.0\MagicNumbers.genruntimeconfig.cache
+C:\Users\GamingPC\Desktop\Homework\9_zadacha\MagicNumbers\MagicNumbers\obj\Debug\net9.0\ref\MagicNumbers.dll
