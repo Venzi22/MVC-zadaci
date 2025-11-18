@@ -1,0 +1,14 @@
+C:\Users\GamingPC\Desktop\Homework\6_zadacha\Pool\Pool\obj\Debug\net9.0\Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamingPC\Desktop\Homework\6_zadacha\Pool\Pool\obj\Debug\net9.0\Pool.AssemblyInfoInputs.cache
+C:\Users\GamingPC\Desktop\Homework\6_zadacha\Pool\Pool\obj\Debug\net9.0\Pool.AssemblyInfo.cs
+C:\Users\GamingPC\Desktop\Homework\6_zadacha\Pool\Pool\obj\Debug\net9.0\Pool.csproj.CoreCompileInputs.cache
+C:\Users\GamingPC\Desktop\Homework\6_zadacha\Pool\Pool\bin\Debug\net9.0\Pool.exe
+C:\Users\GamingPC\Desktop\Homework\6_zadacha\Pool\Pool\bin\Debug\net9.0\Pool.deps.json
+C:\Users\GamingPC\Desktop\Homework\6_zadacha\Pool\Pool\bin\Debug\net9.0\Pool.runtimeconfig.json
+C:\Users\GamingPC\Desktop\Homework\6_zadacha\Pool\Pool\bin\Debug\net9.0\Pool.dll
+C:\Users\GamingPC\Desktop\Homework\6_zadacha\Pool\Pool\bin\Debug\net9.0\Pool.pdb
+C:\Users\GamingPC\Desktop\Homework\6_zadacha\Pool\Pool\obj\Debug\net9.0\Pool.dll
+C:\Users\GamingPC\Desktop\Homework\6_zadacha\Pool\Pool\obj\Debug\net9.0\refint\Pool.dll
+C:\Users\GamingPC\Desktop\Homework\6_zadacha\Pool\Pool\obj\Debug\net9.0\Pool.pdb
+C:\Users\GamingPC\Desktop\Homework\6_zadacha\Pool\Pool\obj\Debug\net9.0\Pool.genruntimeconfig.cache
+C:\Users\GamingPC\Desktop\Homework\6_zadacha\Pool\Pool\obj\Debug\net9.0\ref\Pool.dll
