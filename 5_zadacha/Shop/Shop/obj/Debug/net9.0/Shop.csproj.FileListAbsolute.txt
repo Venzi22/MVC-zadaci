@@ -1,0 +1,14 @@
+C:\Users\GamingPC\Desktop\Homework\5_zadacha\Shop\Shop\bin\Debug\net9.0\Shop.exe
+C:\Users\GamingPC\Desktop\Homework\5_zadacha\Shop\Shop\bin\Debug\net9.0\Shop.deps.json
+C:\Users\GamingPC\Desktop\Homework\5_zadacha\Shop\Shop\bin\Debug\net9.0\Shop.runtimeconfig.json
+C:\Users\GamingPC\Desktop\Homework\5_zadacha\Shop\Shop\bin\Debug\net9.0\Shop.dll
+C:\Users\GamingPC\Desktop\Homework\5_zadacha\Shop\Shop\bin\Debug\net9.0\Shop.pdb
+C:\Users\GamingPC\Desktop\Homework\5_zadacha\Shop\Shop\obj\Debug\net9.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamingPC\Desktop\Homework\5_zadacha\Shop\Shop\obj\Debug\net9.0\Shop.AssemblyInfoInputs.cache
+C:\Users\GamingPC\Desktop\Homework\5_zadacha\Shop\Shop\obj\Debug\net9.0\Shop.AssemblyInfo.cs
+C:\Users\GamingPC\Desktop\Homework\5_zadacha\Shop\Shop\obj\Debug\net9.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\GamingPC\Desktop\Homework\5_zadacha\Shop\Shop\obj\Debug\net9.0\Shop.dll
+C:\Users\GamingPC\Desktop\Homework\5_zadacha\Shop\Shop\obj\Debug\net9.0\refint\Shop.dll
+C:\Users\GamingPC\Desktop\Homework\5_zadacha\Shop\Shop\obj\Debug\net9.0\Shop.pdb
+C:\Users\GamingPC\Desktop\Homework\5_zadacha\Shop\Shop\obj\Debug\net9.0\Shop.genruntimeconfig.cache
+C:\Users\GamingPC\Desktop\Homework\5_zadacha\Shop\Shop\obj\Debug\net9.0\ref\Shop.dll
