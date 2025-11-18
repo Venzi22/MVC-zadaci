@@ -57,12 +57,12 @@ internal class PlochkiModel
         set { plochkiNeeded = value; }
     }
 
-    public PlochkiModel(double n, double wOfP,double lOfP, double mOfBech, double oOfBench, double timeNeeded, double plochkiNeeded)
+    public PlochkiModel(double n, double wOfP,double lOfP, double mOfBench, double oOfBench, double timeNeeded, double plochkiNeeded)
     {
         NOfPlace = n;
         WOfPlockata = wOfP;
         LOfPlockata = lOfP;
-        MOfBench = mOfBech;
+        MOfBench = mOfBench;
         OOfBench = oOfBench;
         TimeNeeded = timeNeeded;
         PlochkiNeeded= plochkiNeeded;
