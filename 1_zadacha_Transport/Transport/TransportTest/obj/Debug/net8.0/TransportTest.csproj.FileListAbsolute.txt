@@ -1,0 +1,6 @@
+C:\Users\GamingPC\Desktop\New folder\Homework\Homework\1_zadacha_Transport\Transport\TransportTest\obj\Debug\net8.0\TransportTest.csproj.AssemblyReference.cache
+C:\Users\GamingPC\Desktop\New folder\Homework\Homework\1_zadacha_Transport\Transport\TransportTest\obj\Debug\net8.0\TransportTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GamingPC\Desktop\New folder\Homework\Homework\1_zadacha_Transport\Transport\TransportTest\obj\Debug\net8.0\TransportTest.AssemblyInfoInputs.cache
+C:\Users\GamingPC\Desktop\New folder\Homework\Homework\1_zadacha_Transport\Transport\TransportTest\obj\Debug\net8.0\TransportTest.AssemblyInfo.cs
+C:\Users\GamingPC\Desktop\New folder\Homework\Homework\1_zadacha_Transport\Transport\TransportTest\obj\Debug\net8.0\TransportTest.csproj.CoreCompileInputs.cache
+C:\Users\GamingPC\Desktop\New folder\Homework\Homework\1_zadacha_Transport\Transport\TransportTest\obj\Debug\net8.0\TransportTest.sourcelink.json

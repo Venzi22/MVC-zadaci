@@ -5,3 +5,17 @@ C:\Users\GamingPC\Desktop\Homework do 19.11\1 zadacha - Transport\Transport\Tran
 C:\Users\GamingPC\Desktop\Homework do 19.11\1 zadacha - Transport\Transport\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
 C:\Users\GamingPC\Desktop\Homework do 19.11\1 zadacha - Transport\Transport\Transport\obj\Debug\Transport.exe
 C:\Users\GamingPC\Desktop\Homework do 19.11\1 zadacha - Transport\Transport\Transport\obj\Debug\Transport.pdb
+C:\Users\Veselin\Downloads\Homework\Homework\1_zadacha_Transport\Transport\Transport\bin\Debug\Transport.exe.config
+C:\Users\Veselin\Downloads\Homework\Homework\1_zadacha_Transport\Transport\Transport\bin\Debug\Transport.exe
+C:\Users\Veselin\Downloads\Homework\Homework\1_zadacha_Transport\Transport\Transport\bin\Debug\Transport.pdb
+C:\Users\Veselin\Downloads\Homework\Homework\1_zadacha_Transport\Transport\Transport\obj\Debug\Transport.csproj.AssemblyReference.cache
+C:\Users\Veselin\Downloads\Homework\Homework\1_zadacha_Transport\Transport\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
+C:\Users\Veselin\Downloads\Homework\Homework\1_zadacha_Transport\Transport\Transport\obj\Debug\Transport.exe
+C:\Users\Veselin\Downloads\Homework\Homework\1_zadacha_Transport\Transport\Transport\obj\Debug\Transport.pdb
+C:\Users\GamingPC\Desktop\New folder\Homework\Homework\1_zadacha_Transport\Transport\Transport\bin\Debug\Transport.exe.config
+C:\Users\GamingPC\Desktop\New folder\Homework\Homework\1_zadacha_Transport\Transport\Transport\bin\Debug\Transport.exe
+C:\Users\GamingPC\Desktop\New folder\Homework\Homework\1_zadacha_Transport\Transport\Transport\bin\Debug\Transport.pdb
+C:\Users\GamingPC\Desktop\New folder\Homework\Homework\1_zadacha_Transport\Transport\Transport\obj\Debug\Transport.csproj.AssemblyReference.cache
+C:\Users\GamingPC\Desktop\New folder\Homework\Homework\1_zadacha_Transport\Transport\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
+C:\Users\GamingPC\Desktop\New folder\Homework\Homework\1_zadacha_Transport\Transport\Transport\obj\Debug\Transport.exe
+C:\Users\GamingPC\Desktop\New folder\Homework\Homework\1_zadacha_Transport\Transport\Transport\obj\Debug\Transport.pdb

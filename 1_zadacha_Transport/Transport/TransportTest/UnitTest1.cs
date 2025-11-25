@@ -1,0 +1,16 @@
+namespace TransportTest
+{
+    public class Tests
+    {
+
+        [Test] 
+        public void Test1()
+        {
+            // Arrange
+            var model = new Transport.Model.Model(10, "day", 0);
+            var service = new Transport.Service.Service();
+            var controller = new Transport.Controler.Controler(service);
+            //?? ????? ?? ?? ??????? ?????? ??????? ? ?? .Net Framework(4.8), ? ???????? ?? ?? ?(8.0)
+        }
+    }
+}

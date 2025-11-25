@@ -1,16 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Transport.Model;
-
 namespace Transport.Service
 {
     internal class Service
     {
-
         public double Taxi(Model.Model model)
         {
             if (model.TimeOfDay.ToLower() == "day")
