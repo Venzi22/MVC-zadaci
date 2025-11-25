@@ -1,32 +1,25 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Transport.Controler;
-
-namespace Transport.Model
+﻿namespace Transport.Model
 {
     internal class Model
     {
-        private double km;
+        private double _km;
         public double Km
         {
-            get { return km; }
-            set { km = value; }
+            get { return _km; }
+            set { _km = value; }
         }
 
-        private string timeOfDay;
+        private string _timeOfDay;
         public string TimeOfDay
         {
-            get { return timeOfDay; }
-            set { timeOfDay = value; }
+            get { return _timeOfDay; }
+            set { _timeOfDay = value; }
         }
-        private double price;
+        private double _price;
         public double Price 
         {
-            get { return price; }
-            set { price = value; }
+            get { return _price; }
+            set { _price = value; }
         }
         public Model(double km, string timeOfDay, double price)
         {

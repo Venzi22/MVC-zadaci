@@ -2,36 +2,32 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using Transport.View;
-using Transport.Model;
-
 namespace Transport.Controler
 {
     internal class Controler
     {
-        private View.View view;
-        private Model.Model model;
-        private Service.Service Service;
+        private View.View _view;
+        private Model.Model _model;
+        private Service.Service _service;
 
         public  Controler(Service.Service service) 
         {
-            Service = service;
+            _service = service;
         }
 
         public double ControlerCal(Model.Model model)
         {
             if (model.Km < 20)
             {
-                return Service.Taxi(model);
+                return _service.Taxi(model);
             }
             else if (model.Km >= 20 && model.Km < 100)
             {
-                return Service.Bus(model);
+                return _service.Bus(model);
             }
             else
             {
-                return Service.Train(model);
+                return _service.Train(model);
             }
         }
     }
