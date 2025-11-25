@@ -1,0 +1,53 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.0.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+    <PackageReference Include="Microsoft.Playwright.NUnit" Version="1.27.1" />
+    <PackageReference Include="NUnit" Version="3.14.0" />
+    <PackageReference Include="NUnit.Analyzers" Version="3.9.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pool\Pool.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Microsoft.Playwright.NUnit" />
+    <Using Include="NUnit.Framework" />
+    <Using Include="System.Text.RegularExpressions" />
+    <Using Include="System.Threading.Tasks" />
+  </ItemGroup>
+
+</Project>
+
+using Pool.Model;
+using Pool.Controler;
+using Pool.Service;
+using Pool.View;
+namespace PoolTest
+{
+    public class Tests
+    {
+        [Test]
+        public void Test()
+        {
+            PoolModel model = new PoolModel(666, 30, 22, 3);
+            PoolService service = new PoolService();
+            PoolControler controller = new PoolControler(service);
+            var result = controller.GetOutput(model);
+
+            Assert.That(result, Is.EqualTo("The pool is 23.423423423423422% full. Pipe 1: 57.69%. Pipe 2: 42.31%."));
+        }
+    }
+}
