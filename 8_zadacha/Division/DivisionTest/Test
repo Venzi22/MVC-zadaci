@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.0.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+    <PackageReference Include="Microsoft.Playwright.NUnit" Version="1.27.1" />
+    <PackageReference Include="NUnit" Version="3.14.0" />
+    <PackageReference Include="NUnit.Analyzers" Version="3.9.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Division\Division.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Microsoft.Playwright.NUnit" />
+    <Using Include="NUnit.Framework" />
+    <Using Include="System.Text.RegularExpressions" />
+    <Using Include="System.Threading.Tasks" />
+  </ItemGroup>
+
+</Project>
+
+using Division.Model;
+using Division.Service;
+using Division.Controler;
+using Division.View;
+namespace DivisionTest
+{
+    public class Tests
+    {
+        [Test]
+        public void Test()
+        {
+            DivisionModel model = new DivisionModel(4, 0, 0, 0, new int[] { 111, 222, 333, 4444 });
+            DivisionService service = new DivisionService();
+            DivisionControler controler = new DivisionControler(service);
+            controler.Cal(model);
+            controler.CalPrc(model);
+
+            Assert.That(model.P3,Is.EqualTo(25));
+        }
+    }
+}
