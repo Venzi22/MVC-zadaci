@@ -1,0 +1,65 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.0.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+    <PackageReference Include="Microsoft.Playwright.NUnit" Version="1.27.1" />
+    <PackageReference Include="NUnit" Version="3.14.0" />
+    <PackageReference Include="NUnit.Analyzers" Version="3.9.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Histograma\Histograma.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="Microsoft.Playwright.NUnit" />
+    <Using Include="NUnit.Framework" />
+    <Using Include="System.Text.RegularExpressions" />
+    <Using Include="System.Threading.Tasks" />
+  </ItemGroup>
+
+</Project>
+
+using Histograma;
+using Histograma.Controler;
+using Histograma.Service;
+using Histograma.View;
+using Histograma.Model;
+namespace HistogramaTest
+{
+    public class Tests
+    {
+        [Test]
+        public void Test1()
+        {
+            int[] number = new int[6];
+            number[0] = 10;
+            number[1] = 333;
+            number[2] = 444;
+            number[3] = 555;
+            number[4] = 999;
+            number[5] = 111;
+            double wantedNum = 0;
+            for (int i = 0; i < 6; i++)
+            {
+                var model = new Histograma.Model.HistogramaModel(33.33, 16.67, 33.33, 0, 16.67, number[i], 6);
+                var service = new Histograma.Service.HistogramaService();
+                var controler = new Histograma.Controler.HistogramaControler(service);
+                var view = new Histograma.View.HistogramaView(controler);
+                wantedNum = model.P1;
+            }
+            Assert.That(wantedNum, Is.EqualTo(33.33));
+        }
+    }
+}
